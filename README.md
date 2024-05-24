@@ -2,7 +2,7 @@
 Installation and startup
 1)	Install miniconda. Instructions are found here: https://docs.anaconda.com/free/miniconda/miniconda-install/
 
-2)	Download and store the veloxchem.yml file here in this github repository
+2)	Download and store the veloxchem.yml file from this github repository (see list of files above)
 
 3)	Open a terminal (mac or linux) or powershell (win). Go to the folder where the veloxchem.yml is located. Type:
 
