@@ -14,7 +14,9 @@ conda activate vlxenv
 
 in your terminal or powershell. 
 
-5)	Next we will download out test notebook (Ru(bda).ipynb), where we will run our first code. 
+Stop here for now. On the occation of the tutorial we will continue below.
+
+5)	Next we will download out test notebook (MDconformations.ipynb), where we will run our first code. 
 
 6)	In your terminal, go to the folder where the ipynb-file is located. If you have already activated the conda environment just type:
 
