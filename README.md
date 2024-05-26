@@ -20,5 +20,5 @@ Stop here for now. On the occation of the tutorial we will continue below.
 
 6)	In your terminal, go to the folder where the ipynb-file is located. If you have already activated the conda environment just type:
 
-jypyter lab
+jupyter lab
 
