@@ -22,3 +22,9 @@ Stop here for now. On the occation of the tutorial we will continue below.
 
 jupyter lab
 
+7)  Since we will be working with some development version files we will need to copy them into the installation location (and overwrite the old ones with the same name. Download all .py files from here and copy the files atomtypeidentifier.py, forcefieldgenerator.py, and molecule.py into the python class folder. On my mac it is /opt/miniconda3/pkgs/veloxchem-1.0rc3-py311h80524ae_141/lib/python3.11/site-packages/veloxchem/ . To find it on a windows computer try to search for forcefieldgenerator.py .
+
+8)  The file named openmmdynamics3.py should be copied into your working directory, the directory where you saved MDconformations.ipynb.
+
+9)  Now it is time to open the MDconformations.ipynb notebook, where you will run you python code.
+
