@@ -2,7 +2,6 @@ name: vlxenv
 channels:
   - conda-forge
   - veloxchem
-  - gator
   - tbmasood
 dependencies:
   - python>=3.8
@@ -23,7 +22,6 @@ dependencies:
   - openbabel
   - veloxchem
   - multipsi
-  - gator
   - valet
   - mdanalysis
   - nglview
